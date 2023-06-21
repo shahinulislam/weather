@@ -1,6 +1,6 @@
 /*
 Application Name: Current Weather information
-Application URI: https://shahinulislam.com/weather/
+Application URI: https://github.com/shahinulislam/weather
 Description: It's a Free & instant current weather information tool.
 Version: 1.0
 Author: Shahinul Islam
@@ -15,4 +15,4 @@ User Interface (Frontend):
 
 Hosting Platform: 
 1. https://shahinulislam.com/weather/
-2. GitHub: 
+2. GitHub: https://github.com/shahinulislam/weather
