@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Weather info by Shahin</title>
+        <link rel="shortcut icon" href="./asset/favicon.png" type="image/x-icon">
+        <link rel="stylesheet" href="./bootstrap.min.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <div class="container">
+        <div class="wrapper p-3 text-center">
+            <h2 class="text-primary pb-3">Weather Application</h2>
+            <input class="mt-3 p-2 rounded" id="inputCity" type="text" placeholder="Enter City Name" required="">
+            <button id="submit" class="btn btn-success">Get Info</button>
+            <h3 class="pt-3" id="city"></h3>
+            <p class="h3"><span id="temp"></span></p>
+            <p class="h4"><span id="hum"></span></p>
+            <p id="des"></p>
+            <h3 class="text-danger" id="country"></h3>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
